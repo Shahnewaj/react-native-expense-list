@@ -1,4 +1,7 @@
 # react-native-expense-list
 
 # clone this repo 
-## run yarn install or npm install 
+## Run yarn install or npm install 
+### for ios :  cd ios && pod install && cd .. 
+
+## Run yarn android or yarn ios 
